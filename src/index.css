@@ -1,0 +1,115 @@
+
+  .home-three1{
+    float: left;
+    width: 30%;
+    height: 100px;
+    margin-left: 2.5%;
+    background: url('img/images/住吧首页_06.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .home-three2{
+    float: left;
+    width: 30%;
+    height: 100px;
+    margin-left: 2.5%;
+    background: url('img/images/住吧首页_06.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .home-three3{
+    float: left;
+    width: 30%;
+    height: 100px;
+    margin-left: 2.5%;
+    background: url('img/images/住吧首页_06.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .home-hot{
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+    float: left;
+  }
+  .home-hot-green{
+    width: 1.5%;
+    height: 20px;
+    margin-top: 10px;
+    background-color: #3fcccd;
+    float: left;
+    margin-right: 2%;
+  }
+  .home-last{
+    background: url('img/images/住吧首页_13.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 100%;
+    float: left;
+    height: 350px;
+  } 
+
+
+
+  .shop-tee{
+    background: url('img/images/商城_03.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 45%;
+    float: left;
+    height: 120px;
+    margin-left: 3%;
+    border-radius: 5px;
+    margin-top: 15px;
+  }
+  .shop-clock{
+    background: url('img/images/商城_03.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 45%;
+    float: left;
+    height: 120px;
+    margin-left: 4%;
+    border-radius: 5px;
+    margin-top: 15px;
+  }
+  .shop-tee-text{
+    margin-top: 10px;
+    font-size: 12px;
+    width: 45%;
+    float: left;
+    margin-left: 3%;
+    color: rgb(136, 138, 130);
+  }
+  .shop-clock-text{
+    margin-top: 10px;
+    font-size: 12px;
+    width: 45%;
+    float: left;
+    margin-left: 4%;
+    color: rgb(136, 138, 130);
+  }
+  .shop-tee-p{
+    margin-top: 8px;
+    font-size: 12px;
+    width: 44%;
+    float: left;
+    margin-left: 4%;
+    color: #000;
+  }
+  .shop-clock-p{
+    margin-top: 8px;
+    font-size: 12px;
+    width: 44%;
+    float: left;
+    margin-left: 5%;
+    color: #000;
+  }
+
+
